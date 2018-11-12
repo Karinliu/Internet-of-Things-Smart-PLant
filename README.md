@@ -1,10 +1,14 @@
 # Introduction
-Before we start coding and building this prototype, I will first explain what this prototype does and how it works. 
 
-First of all, this prototype is builded in `Arduino`, a basil plant and three sensors: `Moisture Sensor v1.4`, `NEOPIXEL LEDstrip` and a `Lightsensor`.
+<img align="right" width="200" alt="screenshot 2018-11-12 19 12 28" src="https://user-images.githubusercontent.com/32538678/48366690-e6762300-e6ae-11e8-964a-98ad5fd8c622.png">
+
+Before we start coding and building this prototype, I will explain what this prototype does and how it works. 
+
+First of all, this prototype is builded in `Arduino`, a basil plant and three sensors: `Moisture Sensor v1.4`, `NEOPIXEL LEDstrip` and a `Lightsensor`. 
 
 ### Okayy and what is the idea of this prototype?
-Well, what this code prototype does is when you put the sensors in your plant, the LED strip indicates how it goes with your plant.
+Well, what this code prototype does is when you put the sensors in your plant, the LED strip indicates how it goes with your plant. 
+
 
 # Alright so how do I start?
 Before we start to build this prototype you need the Moisture sensor Lightsensor, Node MCU and a LED strip with 7 lights, the reason for this is that the lights show the following colors: <br> 
