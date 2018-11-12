@@ -249,4 +249,4 @@ If you have an error in your code check on `spelling`, `;` or `{}`. Otherwise yo
 Nice done!
 
 ## Can I change it into an another color?
-To change the color you can edit the number '100' `LedStrip(strip.Color(100, 100, 100), 0);` The colors that are read there are `LedStrip(strip.Color(Red, Green, Blue), 0)`.
+To change the color you can edit the values in 'strip.color()' `LedStrip(strip.Color(100, 100, 100), 0);` the colors that are read on it are `LedStrip(strip.Color(Red, Green, Blue), 0)`.
