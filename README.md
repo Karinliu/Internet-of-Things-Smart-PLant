@@ -14,16 +14,17 @@ Well, what this code prototype does is when you put the sensors in your plant, t
 Before we start to build this prototype you need the Moisture sensor Lightsensor, Node MCU and a LED strip with 7 lights, the reason for this is that the lights show the following colors: <br> 
 
 Moisture: LEDS 1-3, if the plant has not enough moisture, the LED turns white.
+<img align="left" width="300" alt="screenshot 2018-11-12 19 21 44" src="https://user-images.githubusercontent.com/32538678/48367191-386b7880-e6b0-11e8-960a-4301493cf2d4.png">
 
-| Colors led     | Meaning                                           |
+| Colors led     | Meaning                                           | 
 | -------------- |-------------------------------------------------- |
 | 3 Blue         | Plant has enough moisture                         |
 | 2 Blue 1 White | plant has water, but beware: it will be less.     |
 | 1 Blue 2 White | Plant almost has no water, you have to give water.| 
 | 3 White        | Plant has no moisture, you have to give water!    | 
 
-
 Lightsensor: LEDS 5-7, if the plant does not have enough light, it changes from yellow to orange.
+<img align="left" width="300" alt="screenshot 2018-11-12 19 21 33" src="https://user-images.githubusercontent.com/32538678/48367190-37d2e200-e6b0-11e8-9ff7-3ceb111d144c.png">
 
 | Colors led        | Meaning                                                   |
 | ----------------- |---------------------------------------------------------- |
