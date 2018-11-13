@@ -256,7 +256,7 @@ To change the color you can edit the values in 'strip.color()' `LedStrip(strip.C
 
 
 ## Other links to try?
-If you like this project and you would like to do or learn more with these sensors. Then here are some links you can try:
+If you like this project and you would like to do or learn more about these sensors. Then here are some links you can try:
 
 #### Moisture sensor
 • https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/
