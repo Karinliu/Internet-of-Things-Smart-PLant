@@ -259,17 +259,17 @@ To change the color you can edit the values in 'strip.color()' `LedStrip(strip.C
 If you like this project and you would like to do or learn more about these sensors. Then here are some links you can try:
 
 #### Moisture sensor
-• https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/
-• http://wiki.seeedstudio.com/Grove-Moisture_Sensor/
-• https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all
+• https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/ <br>
+• http://wiki.seeedstudio.com/Grove-Moisture_Sensor/ <br>
+• https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all <br>
 
 #### Lightsensor
-• https://maker.pro/arduino/tutorial/how-to-use-an-ldr-sensor-with-arduino
-• http://wiki.seeedstudio.com/Sensor_light/
-• https://create.arduino.cc/projecthub/amar-slik/turn-on-and-off-led-by-ldr-toggle-ldr-2e3502
+• https://maker.pro/arduino/tutorial/how-to-use-an-ldr-sensor-with-arduino <br>
+• http://wiki.seeedstudio.com/Sensor_light/ <br>
+• https://create.arduino.cc/projecthub/amar-slik/turn-on-and-off-led-by-ldr-toggle-ldr-2e3502 <br>
 
 #### LED strip
-• https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
-• https://learn.adafruit.com/neopixel-painter/test-neopixel-strip
-• https://github.com/adafruit/Adafruit_NeoPixel
+• https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use <br>
+• https://learn.adafruit.com/neopixel-painter/test-neopixel-strip <br>
+• https://github.com/adafruit/Adafruit_NeoPixel <br>
 
