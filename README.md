@@ -249,7 +249,27 @@ And? Did the ledstrip show on the strip 1-3 the color blue and on the strip 5-7 
 If you have an error in your code check on `spelling`, `;` or `{}`. Otherwise you can try download my code from Github and upload into your Arduino board.
 
 ## Yes it works!
-Nice done!
+Nicely done!
 
 ## Can I change it into an another color?
 To change the color you can edit the values in 'strip.color()' `LedStrip(strip.Color(100, 100, 100), 0);` the colors that are read on it are `LedStrip(strip.Color(Red, Green, Blue), 0)`.
+
+
+## Other links to try?
+If you like this project and you would like to do or learn more with these sensors. Then here are some links you can try:
+
+#### Moisture sensor
+• https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/
+• http://wiki.seeedstudio.com/Grove-Moisture_Sensor/
+• https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide/all
+
+#### Lightsensor
+• https://maker.pro/arduino/tutorial/how-to-use-an-ldr-sensor-with-arduino
+• http://wiki.seeedstudio.com/Sensor_light/
+• https://create.arduino.cc/projecthub/amar-slik/turn-on-and-off-led-by-ldr-toggle-ldr-2e3502
+
+#### LED strip
+• https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use
+• https://learn.adafruit.com/neopixel-painter/test-neopixel-strip
+• https://github.com/adafruit/Adafruit_NeoPixel
+
